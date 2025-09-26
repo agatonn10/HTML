@@ -1,0 +1,7 @@
+body {
+
+    background-image: url(..assets/image/fondo.jpeg);
+    background-size: cover;
+    background-size: no-repeat;
+    background-position: center;
+}
