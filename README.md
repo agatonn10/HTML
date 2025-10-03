@@ -1,35 +1,32 @@
-# 👋 Hola, soy Juan David  
+# LUZTIME - Tienda de Relojes de Lujo ⏱️
 
-Soy una persona que está empezando en el mundo de la **programación**.  
-Aunque aún no sé mucho, estoy aprendiendo poco a poco con **HTML, CSS y Python**,  
-buscando mejorar mi lógica y crear proyectos sencillos que me ayuden a crecer.  
+## 🌟 Descripción del Proyecto
 
-## 🚀 Sobre mí  
-- 📚 Estoy en proceso de formación en **desarrollo web** y **programación**.  
-- 💻 Me interesa el diseño de páginas web y la organización de proyectos.  
-- 📈 También me apasiona la **compra y venta**, como una forma de emprendimiento.  
-- 🔎 Siempre busco nuevas formas de aprender de manera práctica.  
-
-## 🛠️ Tecnologías que estoy aprendiendo
-- HTML  
-- CSS  
-- Python (nivel básico)
-- Java Script (proximamente)
-
-## 📌 Proyectos
-- **Registro y Control Académico**  
-  Proyecto en Python para registrar estudiantes, notas y estadísticas académicas.  
-
-- **Portafolio Web Personal**  
-  Sitio web hecho con HTML y CSS para mostrar información personal y proyectos.  
-
-## 🌍 Idiomas
-- Español (nativo)  
-- Inglés (A1.2 en aprendizaje)  
-
-## ✨ Objetivo
-Seguir mejorando en programación, ampliar mis conocimientos y combinar la tecnología  
-con mis intereses en el mundo del comercio y los negocios.  
+**LUZTIME** es una tienda online de relojes exclusivos, donde cada segundo cuenta. El objetivo es ofrecer una experiencia de compra elegante, intuitiva y moderna, diseñada para resaltar la calidad y el lujo de nuestros productos. Nuestro enfoque es proporcionar una plataforma donde los clientes puedan encontrar los relojes más exclusivos, cómodamente desde su dispositivo.
 
 ---
-📫 Puedes contactarme pronto cuando habilite mi sección de **contacto** en el portafolio.
+
+## ✅ Lo que se ha logrado hasta ahora
+
+### 1. Estructura Básica
+
+- ✅ Creación de una página principal con estructura HTML5.
+- ✅ Barra de navegación con enlaces a secciones clave (tienda, productos, etc.).
+- ✅ Footer con información de contacto y enlaces útiles.
+
+### 2. Diseño y Maquetación Visual
+
+- ✅ Implementación de un diseño moderno y minimalista utilizando CSS3.
+- ✅ Paleta de colores sofisticada: blanco, gris, azul y dorado para transmitir lujo y elegancia.
+- ✅ **Card-style layout** para mostrar productos con imágenes, títulos, descripciones y precios.
+
+### 3. Mensajes Persuasivos
+
+- ✅ Implementación de mensajes que capturan la esencia de la marca:  
+  *"No es solo un reloj, es tu imagen."*
+
+### 4. Funcionalidades Iniciales
+
+- ✅ Agregado un botón de compra funcional en cada producto.
+
+---
